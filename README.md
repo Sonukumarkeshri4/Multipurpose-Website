@@ -1,7 +1,7 @@
 
 # A MULTIPURPOSE WEBSITE
 
-This website is fully static and responsive made using HTML5, CSS, Bootstrap5 and Javascript. The contents of the webpage are separable and can be removed or inserted without disturbing the other elements. I have added a complete mockup of the website below, that will help you get a view of this as a whole. Hope you like it, Give it a star ☻  
+This website is fully static and responsive made using HTML5, CSS, Bootstrap5 and Javascript. The contents of the webpage are separable and can be removed or inserted without disturbing the other elements. I have added a complete mockup of the website below, that will help you get a view of this as a whole. Hope you like it, Give it a star ☻  .
 
 
 ## Features
